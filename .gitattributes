@@ -2,3 +2,7 @@ osm路网数据/gis_osm_roads_free_1.shp filter=lfs diff=lfs merge=lfs -text
 osm路网数据/*.shp filter=lfs diff=lfs merge=lfs -text
 osm路网数据/*.dbf filter=lfs diff=lfs merge=lfs -text
 osm路网数据/*.shx filter=lfs diff=lfs merge=lfs -text
+成都市20242025灯光数据/*.h5 filter=lfs diff=lfs merge=lfs -text
+成都市20242025灯光数据/** -text
+房价数据....链家/** -text
+高德api获取数据/** -text

@@ -1,0 +1,101 @@
+{
+  "station_id": "93",
+  "station_name": "天府三街",
+  "query": {
+    "location": "104.069204,30.546205",
+    "radius": 700,
+    "types": "150501",
+    "page_size": 25,
+    "page_num": 1,
+    "sortrule": "distance"
+  },
+  "retrieved_at_utc": "2026-10-21T02:20:13+00:00",
+  "response": {
+    "count": "5",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "BV10523583",
+        "address": "1号线",
+        "distance": "67",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "天府三街地铁站C1口",
+        "location": "104.069673,30.545747",
+        "id": "BX10019502"
+      },
+      {
+        "parent": "BV10523583",
+        "address": "1号线",
+        "distance": "73",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "天府三街地铁站C2口",
+        "location": "104.069865,30.546548",
+        "id": "BX10019503"
+      },
+      {
+        "parent": "BV10523583",
+        "address": "1号线",
+        "distance": "94",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "天府三街地铁站B口",
+        "location": "104.068555,30.545570",
+        "id": "BX10019504"
+      },
+      {
+        "parent": "BV10523583",
+        "address": "1号线",
+        "distance": "122",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "天府三街地铁站A口",
+        "location": "104.068066,30.546698",
+        "id": "BX10019505"
+      },
+      {
+        "parent": "BV10062614",
+        "address": "18号线;1号线",
+        "distance": "646",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "世纪城地铁站C口",
+        "location": "104.069551,30.552006",
+        "id": "BX10029976"
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

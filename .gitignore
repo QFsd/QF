@@ -1,0 +1,6 @@
+# Browser profiles can contain local credentials and transient caches.
+/房价数据....链家/.lianjia_edge_profile/
+/房价数据....链家/browser_profile/
+/房价数据....链家/debug_pages/
+/房价数据....链家/html_pages/.edge_download_profile/
+/房价数据....链家/**/*.下载

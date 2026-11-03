@@ -1,0 +1,101 @@
+{
+  "station_id": "299",
+  "station_name": "驷马桥",
+  "query": {
+    "keywords": "驷马桥",
+    "types": "150501",
+    "region": "成都市",
+    "city_limit": "true",
+    "page_size": 25,
+    "page_num": 1
+  },
+  "retrieved_at_utc": "2026-10-21T02:57:33+00:00",
+  "response": {
+    "count": "5",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "BV10536724",
+        "address": "3号线;7号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510108",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "成华区",
+        "citycode": "028",
+        "name": "驷马桥地铁站E口",
+        "location": "104.095162,30.695389",
+        "id": "BX10023772"
+      },
+      {
+        "parent": "BV10536724",
+        "address": "3号线;7号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510108",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "成华区",
+        "citycode": "028",
+        "name": "驷马桥地铁站A口",
+        "location": "104.093891,30.694999",
+        "id": "BX10021385"
+      },
+      {
+        "parent": "BV10536724",
+        "address": "3号线;7号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510108",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "成华区",
+        "citycode": "028",
+        "name": "驷马桥地铁站C口",
+        "location": "104.092891,30.695324",
+        "id": "BX10021384"
+      },
+      {
+        "parent": "BV10536724",
+        "address": "3号线;7号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510108",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "成华区",
+        "citycode": "028",
+        "name": "驷马桥地铁站D口",
+        "location": "104.095789,30.695739",
+        "id": "BX10023773"
+      },
+      {
+        "parent": "BV10536724",
+        "address": "3号线;7号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510108",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "成华区",
+        "citycode": "028",
+        "name": "驷马桥地铁站B口",
+        "location": "104.092851,30.695847",
+        "id": "BX10021383"
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "station_id": "249",
+  "station_name": "蜀汉路东",
+  "query": {
+    "location": "104.029045,30.682866",
+    "radius": 700,
+    "types": "150501",
+    "page_size": 25,
+    "page_num": 1,
+    "sortrule": "distance"
+  },
+  "retrieved_at_utc": "2026-10-21T02:20:26+00:00",
+  "response": {
+    "count": "4",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "BV10061264",
+        "address": "2号线",
+        "distance": "53",
+        "pcode": "510000",
+        "adcode": "510106",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "金牛区",
+        "citycode": "028",
+        "name": "蜀汉路东地铁站E口",
+        "location": "104.029594,30.682763",
+        "id": "BX10014272"
+      },
+      {
+        "parent": "BV10061264",
+        "address": "2号线",
+        "distance": "116",
+        "pcode": "510000",
+        "adcode": "510106",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "金牛区",
+        "citycode": "028",
+        "name": "蜀汉路东地铁站C口",
+        "location": "104.029885,30.682110",
+        "id": "BX10014271"
+      },
+      {
+        "parent": "BV10061264",
+        "address": "2号线",
+        "distance": "125",
+        "pcode": "510000",
+        "adcode": "510106",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "金牛区",
+        "citycode": "028",
+        "name": "蜀汉路东地铁站F口",
+        "location": "104.028239,30.683750",
+        "id": "BX10014269"
+      },
+      {
+        "parent": "BV10061264",
+        "address": "2号线",
+        "distance": "156",
+        "pcode": "510000",
+        "adcode": "510106",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "金牛区",
+        "citycode": "028",
+        "name": "蜀汉路东地铁站A口",
+        "location": "104.027617,30.683550",
+        "id": "BX10014270"
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

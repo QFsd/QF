@@ -1,0 +1,101 @@
+{
+  "station_id": "61",
+  "station_name": "华府大道",
+  "query": {
+    "keywords": "华府大道",
+    "types": "150501",
+    "region": "成都市",
+    "city_limit": "true",
+    "page_size": 25,
+    "page_num": 1
+  },
+  "retrieved_at_utc": "2026-10-21T02:57:14+00:00",
+  "response": {
+    "count": "5",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "BV10523582",
+        "address": "1号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510116",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "双流区",
+        "citycode": "028",
+        "name": "华府大道地铁站A口",
+        "location": "104.069080,30.526474",
+        "id": "BX10019510"
+      },
+      {
+        "parent": "BV10523582",
+        "address": "1号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510116",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "双流区",
+        "citycode": "028",
+        "name": "华府大道地铁站出入口",
+        "location": "104.070953,30.526244",
+        "id": "BX09901175"
+      },
+      {
+        "parent": "BV10523582",
+        "address": "1号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510116",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "双流区",
+        "citycode": "028",
+        "name": "华府大道地铁站B口",
+        "location": "104.069194,30.524980",
+        "id": "BX10019513"
+      },
+      {
+        "parent": "BV10523582",
+        "address": "1号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510116",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "双流区",
+        "citycode": "028",
+        "name": "华府大道地铁站C1口",
+        "location": "104.070295,30.525732",
+        "id": "BX10019512"
+      },
+      {
+        "parent": "BV10523582",
+        "address": "1号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510116",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "双流区",
+        "citycode": "028",
+        "name": "华府大道地铁站C2口",
+        "location": "104.070287,30.526428",
+        "id": "BX10019511"
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

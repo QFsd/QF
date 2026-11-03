@@ -1,0 +1,53 @@
+{
+  "station_id": "110",
+  "station_name": "宽窄巷子",
+  "query": {
+    "keywords": "宽窄巷子",
+    "types": "150501",
+    "region": "成都市",
+    "city_limit": "true",
+    "page_size": 25,
+    "page_num": 1
+  },
+  "retrieved_at_utc": "2026-10-21T02:57:18+00:00",
+  "response": {
+    "count": "2",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "BV10536811",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "宽窄巷子地铁站B口",
+        "location": "104.051084,30.664992",
+        "id": "BX10020341"
+      },
+      {
+        "parent": "BV10536811",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "宽窄巷子地铁站D口",
+        "location": "104.049625,30.665758",
+        "id": "BX10020871"
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "station_id": "54",
+  "station_name": "动物园",
+  "query": {
+    "keywords": "动物园",
+    "types": "150501",
+    "region": "成都市",
+    "city_limit": "true",
+    "page_size": 25,
+    "page_num": 1
+  },
+  "retrieved_at_utc": "2026-10-21T02:57:14+00:00",
+  "response": {
+    "count": "0",
+    "infocode": "10000",
+    "pois": [],
+    "status": "1",
+    "info": "OK"
+  }
+}

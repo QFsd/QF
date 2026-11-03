@@ -1,0 +1,101 @@
+{
+  "station_id": "22",
+  "station_name": "中坝",
+  "query": {
+    "keywords": "中坝",
+    "types": "150501",
+    "region": "成都市",
+    "city_limit": "true",
+    "page_size": 25,
+    "page_num": 1
+  },
+  "retrieved_at_utc": "2026-10-21T02:57:11+00:00",
+  "response": {
+    "count": "5",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "BV10536821",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "中坝地铁站A口",
+        "location": "103.964055,30.672788",
+        "id": "BX10020378"
+      },
+      {
+        "parent": "BV10536821",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "中坝地铁站B口",
+        "location": "103.964536,30.674004",
+        "id": "BX10020379"
+      },
+      {
+        "parent": "BV10536821",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "中坝地铁站D口",
+        "location": "103.963206,30.672882",
+        "id": "BX10020377"
+      },
+      {
+        "parent": "BV10536821",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "中坝地铁站出入口",
+        "location": "103.964017,30.674080",
+        "id": "BX10033905"
+      },
+      {
+        "parent": "BV10536821",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "中坝地铁站出入口",
+        "location": "103.963529,30.673392",
+        "id": "BX10029659"
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

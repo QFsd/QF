@@ -1,0 +1,3406 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.01741058790617,
+              30.690850401325154
+            ],
+            [
+              104.01661438453812,
+              30.69165934784822
+            ],
+            [
+              104.01690633370823,
+              30.691909379455883
+            ],
+            [
+              104.01961673534984,
+              30.692187396567697
+            ],
+            [
+              104.01840306429143,
+              30.69101644309481
+            ],
+            [
+              104.01741058790617,
+              30.690850401325154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "1",
+        "station_name": "一品天下",
+        "exit_count": 7,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 23388.26,
+        "area_km2": 0.023388,
+        "perimeter_m": 689.56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.1177856036323,
+              30.64539230492781
+            ],
+            [
+              104.11555611132093,
+              30.646936957110636
+            ],
+            [
+              104.11535697520435,
+              30.647362633612104
+            ],
+            [
+              104.1174143052659,
+              30.64641157645243
+            ],
+            [
+              104.11795668655942,
+              30.6461501196239
+            ],
+            [
+              104.1177856036323,
+              30.64539230492781
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "3",
+        "station_name": "万年场",
+        "exit_count": 7,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 15086.16,
+        "area_km2": 0.015086,
+        "perimeter_m": 693.29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.07471013649001,
+              30.606024724039006
+            ],
+            [
+              104.0756158282949,
+              30.60678249210833
+            ],
+            [
+              104.07534423601204,
+              30.606123026347884
+            ],
+            [
+              104.07471013649001,
+              30.606024724039006
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "10",
+        "station_name": "三瓦窑",
+        "exit_count": 3,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 2079.62,
+        "area_km2": 0.00208,
+        "perimeter_m": 260.14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06704591165428,
+              30.55446591945251
+            ],
+            [
+              104.06552365095972,
+              30.556042543592817
+            ],
+            [
+              104.06559843827719,
+              30.55762289363008
+            ],
+            [
+              104.06576711386046,
+              30.55779858942469
+            ],
+            [
+              104.06691197621974,
+              30.558378766668767
+            ],
+            [
+              104.06696192354875,
+              30.557544983709867
+            ],
+            [
+              104.06704591165428,
+              30.55446591945251
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "12",
+        "station_name": "世纪城",
+        "exit_count": 8,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 42262.78,
+        "area_km2": 0.042263,
+        "perimeter_m": 989.44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.0059722658588,
+              30.662736133048035
+            ],
+            [
+              104.00534556315445,
+              30.662880963444447
+            ],
+            [
+              104.00475571165605,
+              30.6633705321076
+            ],
+            [
+              104.00525086589005,
+              30.66392079135421
+            ],
+            [
+              104.00585861675805,
+              30.664258804929084
+            ],
+            [
+              104.00713297413569,
+              30.66344331856205
+            ],
+            [
+              104.0059722658588,
+              30.662736133048035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "15",
+        "station_name": "东坡路",
+        "exit_count": 8,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 21325.29,
+        "area_km2": 0.021325,
+        "perimeter_m": 574.97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.08535578888089,
+              30.650205928251918
+            ],
+            [
+              104.0841029134727,
+              30.65071146843803
+            ],
+            [
+              104.0839989929188,
+              30.651133352934
+            ],
+            [
+              104.08602520266597,
+              30.650338495594625
+            ],
+            [
+              104.08535578888089,
+              30.650205928251918
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "19",
+        "station_name": "东门大桥",
+        "exit_count": 5,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 6779.41,
+        "area_km2": 0.006779,
+        "perimeter_m": 459.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.03789954031546,
+              30.66734453317551
+            ],
+            [
+              104.03779981620663,
+              30.667949509750663
+            ],
+            [
+              104.03767215591213,
+              30.66903434145354
+            ],
+            [
+              104.03788345242359,
+              30.670385218076635
+            ],
+            [
+              104.03832212799846,
+              30.670269193279875
+            ],
+            [
+              104.03978685923236,
+              30.66752086419519
+            ],
+            [
+              104.03789954031546,
+              30.66734453317551
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "20",
+        "station_name": "中医大省医院",
+        "exit_count": 10,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 39671.8,
+        "area_km2": 0.039672,
+        "perimeter_m": 900.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.96187951252583,
+              30.675472764070214
+            ],
+            [
+              103.96103304304387,
+              30.67556878728281
+            ],
+            [
+              103.96135506025983,
+              30.67607777393851
+            ],
+            [
+              103.96184157215507,
+              30.676764274025913
+            ],
+            [
+              103.96235901467196,
+              30.676687035907538
+            ],
+            [
+              103.96187951252583,
+              30.675472764070214
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "22",
+        "station_name": "中坝",
+        "exit_count": 5,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 9457.67,
+        "area_km2": 0.009458,
+        "perimeter_m": 427.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.05269598070379,
+              30.659022309050876
+            ],
+            [
+              104.05257724253825,
+              30.65972723427414
+            ],
+            [
+              104.0530909093966,
+              30.66118758710019
+            ],
+            [
+              104.05336819588807,
+              30.661943715440145
+            ],
+            [
+              104.05402458970796,
+              30.662200337173953
+            ],
+            [
+              104.05471895611514,
+              30.66147833376604
+            ],
+            [
+              104.05269598070379,
+              30.659022309050876
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "35",
+        "station_name": "人民公园",
+        "exit_count": 8,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 30520.3,
+        "area_km2": 0.03052,
+        "perimeter_m": 843.28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.0701584643115,
+              30.68682656575148
+            ],
+            [
+              104.06812486465417,
+              30.688477444130953
+            ],
+            [
+              104.07048183004429,
+              30.689017152419897
+            ],
+            [
+              104.07144728262408,
+              30.68868013145601
+            ],
+            [
+              104.07161503274469,
+              30.688311101507118
+            ],
+            [
+              104.0701584643115,
+              30.68682656575148
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "36",
+        "station_name": "人民北路",
+        "exit_count": 12,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 42458.36,
+        "area_km2": 0.042458,
+        "perimeter_m": 860.19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06482577548138,
+              30.62629818393361
+            ],
+            [
+              104.06406623780194,
+              30.626490243151235
+            ],
+            [
+              104.06138260378107,
+              30.62761899326412
+            ],
+            [
+              104.06405218561696,
+              30.62823654959224
+            ],
+            [
+              104.06482577548138,
+              30.62629818393361
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "40",
+        "station_name": "倪家桥",
+        "exit_count": 7,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 31836.96,
+        "area_km2": 0.031837,
+        "perimeter_m": 853.99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.88741337947414,
+              30.679864658723226
+            ],
+            [
+              103.88653890124218,
+              30.679956077420556
+            ],
+            [
+              103.88745536763967,
+              30.680685310606748
+            ],
+            [
+              103.8885188857406,
+              30.68092781413865
+            ],
+            [
+              103.88741337947414,
+              30.679864658723226
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "50",
+        "station_name": "凤凰大街",
+        "exit_count": 4,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 8409.54,
+        "area_km2": 0.00841,
+        "perimeter_m": 467.51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.09189078220473,
+              30.679070367741843
+            ],
+            [
+              104.08899152731459,
+              30.68036078813168
+            ],
+            [
+              104.08909442479549,
+              30.68103543874716
+            ],
+            [
+              104.08979290482411,
+              30.682108675438705
+            ],
+            [
+              104.09011570276067,
+              30.681958624763677
+            ],
+            [
+              104.09187976041967,
+              30.67967409661601
+            ],
+            [
+              104.09189078220473,
+              30.679070367741843
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "53",
+        "station_name": "前锋路",
+        "exit_count": 8,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 43359.71,
+        "area_km2": 0.04336,
+        "perimeter_m": 930.71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.10079824024736,
+              30.71521768422957
+            ],
+            [
+              104.10001832045167,
+              30.715490479601325
+            ],
+            [
+              104.10009127032265,
+              30.716360065547423
+            ],
+            [
+              104.1014711278289,
+              30.716440178363786
+            ],
+            [
+              104.10107820156333,
+              30.71549258429192
+            ],
+            [
+              104.10079824024736,
+              30.71521768422957
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "54",
+        "station_name": "动物园",
+        "exit_count": 5,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 13204.09,
+        "area_km2": 0.013204,
+        "perimeter_m": 461.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.99878148768735,
+              30.600167758543748
+            ],
+            [
+              103.99811991686073,
+              30.600376685978162
+            ],
+            [
+              103.99804015890142,
+              30.601571468030112
+            ],
+            [
+              104.00183717292875,
+              30.601293050245744
+            ],
+            [
+              104.00086876062612,
+              30.60089114415174
+            ],
+            [
+              103.99878148768735,
+              30.600167758543748
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "60",
+        "station_name": "华兴",
+        "exit_count": 6,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 32066.34,
+        "area_km2": 0.032066,
+        "perimeter_m": 884.04
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06669078730305,
+              30.527449249382617
+            ],
+            [
+              104.06657692761054,
+              30.528942939811703
+            ],
+            [
+              104.0677817579015,
+              30.5288952896613
+            ],
+            [
+              104.06844659824432,
+              30.528710455637132
+            ],
+            [
+              104.06778977536219,
+              30.5281994977733
+            ],
+            [
+              104.06669078730305,
+              30.527449249382617
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "61",
+        "station_name": "华府大道",
+        "exit_count": 5,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 16087.87,
+        "area_km2": 0.016088,
+        "perimeter_m": 567.61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06348654345629,
+              30.644808493259728
+            ],
+            [
+              104.05995870794331,
+              30.647545009396932
+            ],
+            [
+              104.06009241362078,
+              30.647708714814605
+            ],
+            [
+              104.06349042222286,
+              30.64729642746657
+            ],
+            [
+              104.06400249747867,
+              30.645447433637553
+            ],
+            [
+              104.06348654345629,
+              30.644808493259728
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "63",
+        "station_name": "华西坝",
+        "exit_count": 6,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 56713.58,
+        "area_km2": 0.056714,
+        "perimeter_m": 1102.27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.11095784747293,
+              30.647396881452785
+            ],
+            [
+              104.11042664650338,
+              30.647467572560704
+            ],
+            [
+              104.1105365691325,
+              30.650011539528478
+            ],
+            [
+              104.11127187654739,
+              30.649434179380673
+            ],
+            [
+              104.11199121314652,
+              30.648607937968904
+            ],
+            [
+              104.11095784747293,
+              30.647396881452785
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "70",
+        "station_name": "双桥路",
+        "exit_count": 7,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 25293.78,
+        "area_km2": 0.025294,
+        "perimeter_m": 710.23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06605202714367,
+              30.54803348846704
+            ],
+            [
+              104.06556388843211,
+              30.549161814119667
+            ],
+            [
+              104.06735959497192,
+              30.549009328506557
+            ],
+            [
+              104.06716797613984,
+              30.548208860450963
+            ],
+            [
+              104.06605202714367,
+              30.54803348846704
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "93",
+        "station_name": "天府三街",
+        "exit_count": 4,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 14943.8,
+        "area_km2": 0.014944,
+        "perimeter_m": 506.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06653555313868,
+              30.538837831510733
+            ],
+            [
+              104.06645264326227,
+              30.54020250419418
+            ],
+            [
+              104.06743387079248,
+              30.54003019436956
+            ],
+            [
+              104.06795396608712,
+              30.53959362926631
+            ],
+            [
+              104.06744788971783,
+              30.53906348992876
+            ],
+            [
+              104.06653555313868,
+              30.538837831510733
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "94",
+        "station_name": "天府五街",
+        "exit_count": 5,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 14387.85,
+        "area_km2": 0.014388,
+        "perimeter_m": 484.24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06110076374864,
+              30.65896317869592
+            ],
+            [
+              104.06147791201427,
+              30.660379944264438
+            ],
+            [
+              104.06195891602296,
+              30.66041915216863
+            ],
+            [
+              104.06476632972473,
+              30.66046180163219
+            ],
+            [
+              104.06516956324145,
+              30.66035925143869
+            ],
+            [
+              104.06517058509459,
+              30.659838478106543
+            ],
+            [
+              104.06427033859929,
+              30.65937601860605
+            ],
+            [
+              104.06110076374864,
+              30.65896317869592
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "97",
+        "station_name": "天府广场",
+        "exit_count": 16,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 47319.58,
+        "area_km2": 0.04732,
+        "perimeter_m": 981.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.07492006255181,
+              30.66657224686184
+            ],
+            [
+              104.0733313323445,
+              30.66764248714603
+            ],
+            [
+              104.07499491920491,
+              30.667383808484935
+            ],
+            [
+              104.07492006255181,
+              30.66657224686184
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "105",
+        "station_name": "太升南路",
+        "exit_count": 4,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 7270.55,
+        "area_km2": 0.007271,
+        "perimeter_m": 445.14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.01941135521007,
+              30.626795582029676
+            ],
+            [
+              104.01837896385018,
+              30.627454294283613
+            ],
+            [
+              104.0183519974896,
+              30.62884780100935
+            ],
+            [
+              104.01963149639755,
+              30.628728156649366
+            ],
+            [
+              104.0197850206514,
+              30.627305298448064
+            ],
+            [
+              104.01941135521007,
+              30.626795582029676
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "106",
+        "station_name": "太平园",
+        "exit_count": 6,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 24059.52,
+        "area_km2": 0.02406,
+        "perimeter_m": 626.05
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06142581484649,
+              30.577067444219427
+            ],
+            [
+              104.05959169205428,
+              30.577370379614973
+            ],
+            [
+              104.06107947563486,
+              30.578430514084292
+            ],
+            [
+              104.0652660305453,
+              30.580355320391156
+            ],
+            [
+              104.06620727544035,
+              30.58016803017718
+            ],
+            [
+              104.06641596996963,
+              30.578418371608038
+            ],
+            [
+              104.06638006229693,
+              30.57784363122896
+            ],
+            [
+              104.06534102709696,
+              30.57731231830619
+            ],
+            [
+              104.06142581484649,
+              30.577067444219427
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "108",
+        "station_name": "孵化园",
+        "exit_count": 16,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 139439.0,
+        "area_km2": 0.139439,
+        "perimeter_m": 1662.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.04847895685238,
+              30.667247456654124
+            ],
+            [
+              104.04702381083436,
+              30.6680162263534
+            ],
+            [
+              104.04729596844872,
+              30.668401165857976
+            ],
+            [
+              104.04875111825213,
+              30.66763239323109
+            ],
+            [
+              104.04847895685238,
+              30.667247456654124
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "110",
+        "station_name": "宽窄巷子",
+        "exit_count": 2,
+        "method": "two_exit_oriented_rectangle",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": 163.39,
+        "width_m": 50.0,
+        "width_basis": "user_allowed_50m_assumption_not_surveyed",
+        "status": "estimated_rectangle",
+        "area_m2": 8169.3,
+        "area_km2": 0.008169,
+        "perimeter_m": 426.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.07332817896642,
+              30.627449660691642
+            ],
+            [
+              104.07143311000631,
+              30.627456849745826
+            ],
+            [
+              104.07437059965832,
+              30.628408129515794
+            ],
+            [
+              104.07332817896642,
+              30.627449660691642
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "113",
+        "station_name": "川大望江校区",
+        "exit_count": 4,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 9687.0,
+        "area_km2": 0.009687,
+        "perimeter_m": 628.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.08371475304827,
+              30.662290679868555
+            ],
+            [
+              104.08293552087042,
+              30.662347175510646
+            ],
+            [
+              104.08102949623641,
+              30.66323817160943
+            ],
+            [
+              104.08126622631329,
+              30.66344090087064
+            ],
+            [
+              104.0820463731315,
+              30.663762179348403
+            ],
+            [
+              104.08371475304827,
+              30.662290679868555
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "117",
+        "station_name": "市二医院",
+        "exit_count": 7,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 16136.43,
+        "area_km2": 0.016136,
+        "perimeter_m": 625.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.97289904947276,
+              30.68521766207811
+            ],
+            [
+              103.97228007021822,
+              30.68615092247963
+            ],
+            [
+              103.97276935430554,
+              30.688216636786525
+            ],
+            [
+              103.97408096772749,
+              30.688047112274393
+            ],
+            [
+              103.9762516326376,
+              30.68740836646814
+            ],
+            [
+              103.97432922562959,
+              30.685835444318045
+            ],
+            [
+              103.97289904947276,
+              30.68521766207811
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "136",
+        "station_name": "成都西",
+        "exit_count": 9,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 72220.79,
+        "area_km2": 0.072221,
+        "perimeter_m": 1106.33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.00665629490011,
+              30.673206411205033
+            ],
+            [
+              104.00630950565834,
+              30.674632816450227
+            ],
+            [
+              104.00658048931291,
+              30.675118779558396
+            ],
+            [
+              104.00709958126187,
+              30.675192180731084
+            ],
+            [
+              104.00766152016404,
+              30.6752154770466
+            ],
+            [
+              104.00974890233331,
+              30.67490434654637
+            ],
+            [
+              104.00665629490011,
+              30.673206411205033
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "139",
+        "station_name": "文化宫",
+        "exit_count": 10,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 38039.08,
+        "area_km2": 0.038039,
+        "perimeter_m": 879.52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06447231983711,
+              30.673091635116183
+            ],
+            [
+              104.06490243170232,
+              30.67439640859725
+            ],
+            [
+              104.06558109901965,
+              30.675347986031657
+            ],
+            [
+              104.06676486117168,
+              30.676277879482985
+            ],
+            [
+              104.06598036686582,
+              30.67500056703357
+            ],
+            [
+              104.06447231983711,
+              30.673091635116183
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "141",
+        "station_name": "文殊院",
+        "exit_count": 6,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 13509.73,
+        "area_km2": 0.01351,
+        "perimeter_m": 843.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.07248860176333,
+              30.646090824634282
+            ],
+            [
+              104.07228386356392,
+              30.64728955009136
+            ],
+            [
+              104.07480114580821,
+              30.646642043490008
+            ],
+            [
+              104.07401730169036,
+              30.646134096599116
+            ],
+            [
+              104.0729229363794,
+              30.646101323960256
+            ],
+            [
+              104.07248860176333,
+              30.646090824634282
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "143",
+        "station_name": "新南门",
+        "exit_count": 7,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 19277.54,
+        "area_km2": 0.019278,
+        "perimeter_m": 626.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.07656833762948,
+              30.65468579850389
+            ],
+            [
+              104.07632065012602,
+              30.65511785308717
+            ],
+            [
+              104.07678500298779,
+              30.65569914936192
+            ],
+            [
+              104.07728132633679,
+              30.656257434910675
+            ],
+            [
+              104.07772074243603,
+              30.65664985566592
+            ],
+            [
+              104.07821612931538,
+              30.656366528717456
+            ],
+            [
+              104.07764688774353,
+              30.65554140558544
+            ],
+            [
+              104.07656833762948,
+              30.65468579850389
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "153",
+        "station_name": "春熙路",
+        "exit_count": 8,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 15078.22,
+        "area_km2": 0.015078,
+        "perimeter_m": 573.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.97788970767178,
+              30.647600431869726
+            ],
+            [
+              103.97503746250055,
+              30.647578449992526
+            ],
+            [
+              103.97560544268507,
+              30.649737942929384
+            ],
+            [
+              103.9779225843093,
+              30.647832239596163
+            ],
+            [
+              103.97788970767178,
+              30.647600431869726
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "158",
+        "station_name": "机投桥",
+        "exit_count": 6,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 35827.18,
+        "area_km2": 0.035827,
+        "perimeter_m": 851.12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06488906748497,
+              30.617238752531073
+            ],
+            [
+              104.06426923856144,
+              30.617794454988438
+            ],
+            [
+              104.06485209259952,
+              30.61824140562049
+            ],
+            [
+              104.06488906748497,
+              30.617238752531073
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "167",
+        "station_name": "桐梓林",
+        "exit_count": 3,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 3191.96,
+        "area_km2": 0.003192,
+        "perimeter_m": 271.42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.13656201882863,
+              30.650583091515216
+            ],
+            [
+              104.13601125833902,
+              30.650818220955983
+            ],
+            [
+              104.1366099707309,
+              30.653064089372567
+            ],
+            [
+              104.13726780993369,
+              30.654570367840474
+            ],
+            [
+              104.13812315475644,
+              30.65141095959436
+            ],
+            [
+              104.13656201882863,
+              30.650583091515216
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "172",
+        "station_name": "槐树店",
+        "exit_count": 9,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 45546.86,
+        "area_km2": 0.045547,
+        "perimeter_m": 1027.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.01049081351756,
+              30.638187096626528
+            ],
+            [
+              104.01024369303937,
+              30.638642644804506
+            ],
+            [
+              104.00961886787964,
+              30.6409685380545
+            ],
+            [
+              104.01056046551533,
+              30.64033898465242
+            ],
+            [
+              104.01118623991117,
+              30.63922058592965
+            ],
+            [
+              104.01049081351756,
+              30.638187096626528
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "174",
+        "station_name": "武侯大道",
+        "exit_count": 7,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 20099.3,
+        "area_km2": 0.020099,
+        "perimeter_m": 704.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.87186702562494,
+              30.681186238708424
+            ],
+            [
+              103.87014896209556,
+              30.68139510793741
+            ],
+            [
+              103.87115215059447,
+              30.681984039224453
+            ],
+            [
+              103.87209125648951,
+              30.681900172060974
+            ],
+            [
+              103.87186702562494,
+              30.681186238708424
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "187",
+        "station_name": "涌泉",
+        "exit_count": 4,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 10143.06,
+        "area_km2": 0.010143,
+        "perimeter_m": 454.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.99681133786568,
+              30.678665789159947
+            ],
+            [
+              103.99559778074679,
+              30.67925519846273
+            ],
+            [
+              103.99583987527961,
+              30.679589313590366
+            ],
+            [
+              103.997051437271,
+              30.679030895530346
+            ],
+            [
+              103.99681133786568,
+              30.678665789159947
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "188",
+        "station_name": "清江西路",
+        "exit_count": 4,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 5969.97,
+        "area_km2": 0.00597,
+        "perimeter_m": 355.12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.07149781511895,
+              30.697116147526373
+            ],
+            [
+              104.07031172358589,
+              30.697449439988674
+            ],
+            [
+              104.07077892372645,
+              30.698184517343236
+            ],
+            [
+              104.07107342579943,
+              30.698632947430223
+            ],
+            [
+              104.07186118512703,
+              30.698308157129333
+            ],
+            [
+              104.07194406836516,
+              30.698013197914957
+            ],
+            [
+              104.07175241007624,
+              30.69714383162065
+            ],
+            [
+              104.07149781511895,
+              30.697116147526373
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "190",
+        "station_name": "火车北",
+        "exit_count": 7,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 16684.58,
+        "area_km2": 0.016685,
+        "perimeter_m": 509.44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06602059007544,
+              30.60279578808877
+            ],
+            [
+              104.06467910593325,
+              30.60330854796701
+            ],
+            [
+              104.06270379454206,
+              30.607860796594018
+            ],
+            [
+              104.06378562463189,
+              30.608147009895703
+            ],
+            [
+              104.06594447408085,
+              30.60844569736303
+            ],
+            [
+              104.06614625975723,
+              30.604919785045826
+            ],
+            [
+              104.06602059007544,
+              30.60279578808877
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "191",
+        "station_name": "火车南",
+        "exit_count": 14,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 130760.32,
+        "area_km2": 0.13076,
+        "perimeter_m": 1624.49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.10534977874136,
+              30.6396637980678
+            ],
+            [
+              104.10451466780698,
+              30.640227321168986
+            ],
+            [
+              104.10508869543727,
+              30.640817234439737
+            ],
+            [
+              104.10601785141982,
+              30.64008383440057
+            ],
+            [
+              104.10534977874136,
+              30.6396637980678
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "193",
+        "station_name": "牛市口",
+        "exit_count": 4,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 9008.46,
+        "area_km2": 0.009008,
+        "perimeter_m": 386.68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.08908806059927,
+              30.645607057958177
+            ],
+            [
+              104.09001931364203,
+              30.64832653675051
+            ],
+            [
+              104.0913824855802,
+              30.648285097016856
+            ],
+            [
+              104.0929816860128,
+              30.64713615760539
+            ],
+            [
+              104.08963868500533,
+              30.645662816351017
+            ],
+            [
+              104.08908806059927,
+              30.645607057958177
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "194",
+        "station_name": "牛王庙",
+        "exit_count": 9,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 59947.95,
+        "area_km2": 0.059948,
+        "perimeter_m": 1056.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.96718950216751,
+              30.759678651232406
+            ],
+            [
+              103.96678178790435,
+              30.75988760199883
+            ],
+            [
+              103.96802078961204,
+              30.761032786253377
+            ],
+            [
+              103.96917705638688,
+              30.761190657773376
+            ],
+            [
+              103.96940831679512,
+              30.760948168861663
+            ],
+            [
+              103.96938043248774,
+              30.7603565465711
+            ],
+            [
+              103.96718950216751,
+              30.759678651232406
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "196",
+        "station_name": "犀浦",
+        "exit_count": 8,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 22645.14,
+        "area_km2": 0.022645,
+        "perimeter_m": 654.34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.09595705061123,
+              30.65572596038133
+            ],
+            [
+              104.09542023701825,
+              30.655814982430005
+            ],
+            [
+              104.09562514825669,
+              30.65612582264737
+            ],
+            [
+              104.0962628869509,
+              30.65706334973873
+            ],
+            [
+              104.09704962512609,
+              30.657519095780707
+            ],
+            [
+              104.09737961546982,
+              30.655737855850774
+            ],
+            [
+              104.09595705061123,
+              30.65572596038133
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "198",
+        "station_name": "玉双路",
+        "exit_count": 7,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 22310.53,
+        "area_km2": 0.022311,
+        "perimeter_m": 639.55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.13305525740641,
+              30.67558031889259
+            ],
+            [
+              104.13261268202965,
+              30.676032539070576
+            ],
+            [
+              104.13247049139193,
+              30.67633321950621
+            ],
+            [
+              104.13209999270008,
+              30.677227339193756
+            ],
+            [
+              104.13567461557041,
+              30.67672232413669
+            ],
+            [
+              104.13621937787057,
+              30.67615233776757
+            ],
+            [
+              104.13305525740641,
+              30.67558031889259
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "200",
+        "station_name": "理工大学",
+        "exit_count": 8,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 41580.24,
+        "area_km2": 0.04158,
+        "perimeter_m": 945.48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.09582324525174,
+              30.60905728405808
+            ],
+            [
+              104.096449953822,
+              30.61086851303643
+            ],
+            [
+              104.09933832657005,
+              30.609192126624997
+            ],
+            [
+              104.09582324525174,
+              30.60905728405808
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "202",
+        "station_name": "琉璃场",
+        "exit_count": 6,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 33371.27,
+        "area_km2": 0.033371,
+        "perimeter_m": 880.27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.03088745050667,
+              30.675556532261645
+            ],
+            [
+              104.0308714446677,
+              30.67677402464793
+            ],
+            [
+              104.03139334951334,
+              30.676779149744828
+            ],
+            [
+              104.03140934880952,
+              30.6755616571558
+            ],
+            [
+              104.03088745050667,
+              30.675556532261645
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "207",
+        "station_name": "白果林",
+        "exit_count": 2,
+        "method": "two_exit_oriented_rectangle",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": 134.95,
+        "width_m": 50.0,
+        "width_basis": "user_allowed_50m_assumption_not_surveyed",
+        "status": "estimated_rectangle",
+        "area_m2": 6747.25,
+        "area_km2": 0.006747,
+        "perimeter_m": 369.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06382835491131,
+              30.634147449622624
+            ],
+            [
+              104.06248596807036,
+              30.635671898108598
+            ],
+            [
+              104.0626146840789,
+              30.63617748430924
+            ],
+            [
+              104.06428834206406,
+              30.63663071874857
+            ],
+            [
+              104.06477245536256,
+              30.635555443918303
+            ],
+            [
+              104.06482938557511,
+              30.634689719909076
+            ],
+            [
+              104.06444513789683,
+              30.634436397708008
+            ],
+            [
+              104.06382835491131,
+              30.634147449622624
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "211",
+        "station_name": "省体育馆",
+        "exit_count": 12,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 39629.5,
+        "area_km2": 0.039629,
+        "perimeter_m": 775.34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.07590198639747,
+              30.63838540617017
+            ],
+            [
+              104.07325777628026,
+              30.638549139504722
+            ],
+            [
+              104.073205767783,
+              30.640442402139737
+            ],
+            [
+              104.07359418488012,
+              30.640483952776137
+            ],
+            [
+              104.07639031993608,
+              30.638471886388206
+            ],
+            [
+              104.07590198639747,
+              30.63838540617017
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "217",
+        "station_name": "磨子桥",
+        "exit_count": 9,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 37880.71,
+        "area_km2": 0.037881,
+        "perimeter_m": 897.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.0457822229855,
+              30.611172675126113
+            ],
+            [
+              104.04515195571321,
+              30.61138499200552
+            ],
+            [
+              104.0442095477096,
+              30.61230474768059
+            ],
+            [
+              104.04538622359026,
+              30.613218744488528
+            ],
+            [
+              104.04588187250471,
+              30.61286578563386
+            ],
+            [
+              104.04601454372428,
+              30.612078804362923
+            ],
+            [
+              104.0457822229855,
+              30.611172675126113
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "218",
+        "station_name": "神仙树",
+        "exit_count": 6,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 22982.82,
+        "area_km2": 0.022983,
+        "perimeter_m": 605.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.08786969128082,
+              30.672765711631246
+            ],
+            [
+              104.08735307463809,
+              30.673054827030935
+            ],
+            [
+              104.08614190317343,
+              30.676428929229
+            ],
+            [
+              104.08861698338968,
+              30.676204829863906
+            ],
+            [
+              104.08898876189242,
+              30.67531107669925
+            ],
+            [
+              104.08860708790604,
+              30.674089787516827
+            ],
+            [
+              104.08786969128082,
+              30.672765711631246
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "228",
+        "station_name": "红星桥",
+        "exit_count": 7,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 65902.0,
+        "area_km2": 0.065902,
+        "perimeter_m": 1097.23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.02654635628971,
+              30.636547453415965
+            ],
+            [
+              104.02726689910403,
+              30.63743510837328
+            ],
+            [
+              104.02788980293839,
+              30.637805256037527
+            ],
+            [
+              104.03004664974557,
+              30.63846516998287
+            ],
+            [
+              104.02996095341608,
+              30.637950614365714
+            ],
+            [
+              104.02943170844004,
+              30.63756619193408
+            ],
+            [
+              104.02654635628971,
+              30.636547453415965
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "229",
+        "station_name": "红牌楼",
+        "exit_count": 7,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 22938.81,
+        "area_km2": 0.022939,
+        "perimeter_m": 834.43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.00879650369644,
+              30.69484006077564
+            ],
+            [
+              104.00961542222778,
+              30.69688864611562
+            ],
+            [
+              104.00990435100556,
+              30.697279597337623
+            ],
+            [
+              104.01147967255444,
+              30.696048466198835
+            ],
+            [
+              104.01154544315682,
+              30.695835369768762
+            ],
+            [
+              104.00879650369644,
+              30.69484006077564
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "232",
+        "station_name": "羊犀立交",
+        "exit_count": 7,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 32535.59,
+        "area_km2": 0.032536,
+        "perimeter_m": 804.97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.04378943641235,
+              30.68533944073124
+            ],
+            [
+              104.04408059051619,
+              30.68585854046395
+            ],
+            [
+              104.04692569836187,
+              30.68641996346176
+            ],
+            [
+              104.04650186770463,
+              30.68603806300046
+            ],
+            [
+              104.04578684585819,
+              30.685624825519984
+            ],
+            [
+              104.04378943641235,
+              30.68533944073124
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "239",
+        "station_name": "花牌坊",
+        "exit_count": 6,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 14197.01,
+        "area_km2": 0.014197,
+        "perimeter_m": 678.44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.00933797619973,
+              30.707316553705844
+            ],
+            [
+              104.00946247715193,
+              30.708325699362963
+            ],
+            [
+              104.01159865172524,
+              30.709404798062536
+            ],
+            [
+              104.0106631356774,
+              30.707516490766558
+            ],
+            [
+              104.00933797619973,
+              30.707316553705844
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "243",
+        "station_name": "茶店子客运",
+        "exit_count": 5,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 23014.49,
+        "area_km2": 0.023014,
+        "perimeter_m": 705.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.02721257921671,
+              30.671111673692547
+            ],
+            [
+              104.0261461534101,
+              30.67136248829088
+            ],
+            [
+              104.02515348867327,
+              30.67195896703183
+            ],
+            [
+              104.02674113885722,
+              30.67160374432469
+            ],
+            [
+              104.02721257921671,
+              30.671111673692547
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "244",
+        "station_name": "草堂北路",
+        "exit_count": 4,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 5313.7,
+        "area_km2": 0.005314,
+        "perimeter_m": 449.62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.02747908536907,
+              30.684601835768195
+            ],
+            [
+              104.02521863952224,
+              30.68604739170403
+            ],
+            [
+              104.02583852921721,
+              30.686245584319707
+            ],
+            [
+              104.027189026861,
+              30.68525532798386
+            ],
+            [
+              104.02747908536907,
+              30.684601835768195
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "249",
+        "station_name": "蜀汉路东",
+        "exit_count": 4,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 10294.54,
+        "area_km2": 0.010295,
+        "perimeter_m": 579.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.04970359598495,
+              30.63630606326128
+            ],
+            [
+              104.04936844963895,
+              30.636724585947057
+            ],
+            [
+              104.04980727872123,
+              30.63737140317285
+            ],
+            [
+              104.05032694146728,
+              30.637273372676923
+            ],
+            [
+              104.04970359598495,
+              30.63630606326128
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "250",
+        "station_name": "衣冠庙",
+        "exit_count": 4,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 5120.72,
+        "area_km2": 0.005121,
+        "perimeter_m": 313.23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.04779591015982,
+              30.696239531246782
+            ],
+            [
+              104.04742191038883,
+              30.696311301431635
+            ],
+            [
+              104.04561779320888,
+              30.697088882341674
+            ],
+            [
+              104.0462459926707,
+              30.6987147335844
+            ],
+            [
+              104.04750065738024,
+              30.697221705621104
+            ],
+            [
+              104.04779591015982,
+              30.696239531246782
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "254",
+        "station_name": "西南交大",
+        "exit_count": 8,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 26684.37,
+        "area_km2": 0.026684,
+        "perimeter_m": 736.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.01816972070257,
+              30.67225667389433
+            ],
+            [
+              104.01719316273234,
+              30.67272630151281
+            ],
+            [
+              104.0173495815244,
+              30.67330258724122
+            ],
+            [
+              104.01869386597262,
+              30.67231812877812
+            ],
+            [
+              104.01816972070257,
+              30.67225667389433
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "255",
+        "station_name": "西南财大",
+        "exit_count": 4,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 6555.7,
+        "area_km2": 0.006556,
+        "perimeter_m": 392.13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06141350232741,
+              30.584501744496624
+            ],
+            [
+              104.06090855234186,
+              30.58463352079121
+            ],
+            [
+              104.06136955038988,
+              30.58545546315772
+            ],
+            [
+              104.06179367205259,
+              30.585448780004818
+            ],
+            [
+              104.06206613086259,
+              30.585035496404224
+            ],
+            [
+              104.06182165662725,
+              30.584520078510756
+            ],
+            [
+              104.06141350232741,
+              30.584501744496624
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "277",
+        "station_name": "金融城",
+        "exit_count": 6,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 7975.7,
+        "area_km2": 0.007976,
+        "perimeter_m": 346.17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06381032361432,
+              30.569778306341206
+            ],
+            [
+              104.06237419171643,
+              30.569873504624745
+            ],
+            [
+              104.06436019892593,
+              30.570895077122227
+            ],
+            [
+              104.06455782267467,
+              30.570759829407564
+            ],
+            [
+              104.06459777558946,
+              30.57010100423283
+            ],
+            [
+              104.06381032361432,
+              30.569778306341206
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "283",
+        "station_name": "锦城广场",
+        "exit_count": 8,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 13195.11,
+        "area_km2": 0.013195,
+        "perimeter_m": 540.54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.0632127745072,
+              30.651680975115532
+            ],
+            [
+              104.06327159353438,
+              30.65307528241793
+            ],
+            [
+              104.06382450905079,
+              30.65284653230238
+            ],
+            [
+              104.06382453022972,
+              30.652381732924855
+            ],
+            [
+              104.0632127745072,
+              30.651680975115532
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "287",
+        "station_name": "锦江宾馆",
+        "exit_count": 4,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 5674.91,
+        "area_km2": 0.005675,
+        "perimeter_m": 362.19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.09135024174813,
+              30.697380079369808
+            ],
+            [
+              104.09035082793434,
+              30.697705255665976
+            ],
+            [
+              104.09031082895268,
+              30.698228024534743
+            ],
+            [
+              104.09324720713035,
+              30.698119231876085
+            ],
+            [
+              104.0926205334617,
+              30.69776954358022
+            ],
+            [
+              104.09135024174813,
+              30.697380079369808
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "299",
+        "station_name": "驷马桥",
+        "exit_count": 5,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 16380.81,
+        "area_km2": 0.016381,
+        "perimeter_m": 642.37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06334574921364,
+              30.668332475576154
+            ],
+            [
+              104.06258621968297,
+              30.669534124671323
+            ],
+            [
+              104.06423094504177,
+              30.669669529468678
+            ],
+            [
+              104.06487471523499,
+              30.669355708055708
+            ],
+            [
+              104.06334574921364,
+              30.668332475576154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "301",
+        "station_name": "骡马市",
+        "exit_count": 5,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 17083.05,
+        "area_km2": 0.017083,
+        "perimeter_m": 566.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.03997647874945,
+              30.641249788678216
+            ],
+            [
+              104.03945402866349,
+              30.641351003147975
+            ],
+            [
+              104.03858350047209,
+              30.64444480678709
+            ],
+            [
+              104.03915675017582,
+              30.645068148038526
+            ],
+            [
+              104.0409913013533,
+              30.645360629349536
+            ],
+            [
+              104.04129942235727,
+              30.64486411254217
+            ],
+            [
+              104.0409086863352,
+              30.64219116879059
+            ],
+            [
+              104.04048495979205,
+              30.641586431074344
+            ],
+            [
+              104.03997647874945,
+              30.641249788678216
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "302",
+        "station_name": "高升桥",
+        "exit_count": 14,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 82481.67,
+        "area_km2": 0.082482,
+        "perimeter_m": 1172.01
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.06164548505691,
+              30.59628395061764
+            ],
+            [
+              104.06088106722345,
+              30.596570087383377
+            ],
+            [
+              104.06107364106303,
+              30.597047589345895
+            ],
+            [
+              104.06161950352059,
+              30.5970596970415
+            ],
+            [
+              104.06164548505691,
+              30.59628395061764
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "303",
+        "station_name": "高新",
+        "exit_count": 4,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 4483.43,
+        "area_km2": 0.004483,
+        "perimeter_m": 274.27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.2654887818798,
+              30.561954057205018
+            ],
+            [
+              104.26504023943087,
+              30.562401163513172
+            ],
+            [
+              104.2650022398918,
+              30.563290875131454
+            ],
+            [
+              104.26524296760162,
+              30.56368459826596
+            ],
+            [
+              104.26609903947269,
+              30.563727070935727
+            ],
+            [
+              104.26684221137079,
+              30.56369361630109
+            ],
+            [
+              104.26643771530645,
+              30.562582260418132
+            ],
+            [
+              104.2654887818798,
+              30.561954057205018
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "313",
+        "station_name": "龙泉驿",
+        "exit_count": 12,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 24052.05,
+        "area_km2": 0.024052,
+        "perimeter_m": 610.97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.00606635450053,
+              30.65282117285559
+            ],
+            [
+              104.00526224780378,
+              30.654239989613956
+            ],
+            [
+              104.00579027655824,
+              30.654928095138178
+            ],
+            [
+              104.00649966824933,
+              30.6549919250531
+            ],
+            [
+              104.00837379901756,
+              30.655016268406882
+            ],
+            [
+              104.00870062688432,
+              30.65449251320241
+            ],
+            [
+              104.00645592124329,
+              30.652882969883287
+            ],
+            [
+              104.00606635450053,
+              30.65282117285559
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "315",
+        "station_name": "龙爪堰",
+        "exit_count": 8,
+        "method": "exit_points_convex_hull",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": "",
+        "width_m": "",
+        "width_basis": "",
+        "status": "polygon",
+        "area_m2": 49311.6,
+        "area_km2": 0.049312,
+        "perimeter_m": 897.92
+      }
+    }
+  ]
+}

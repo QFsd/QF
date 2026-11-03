@@ -1,0 +1,85 @@
+{
+  "station_id": "255",
+  "station_name": "西南财大",
+  "query": {
+    "location": "104.020115,30.670470",
+    "radius": 700,
+    "types": "150501",
+    "page_size": 25,
+    "page_num": 1,
+    "sortrule": "distance"
+  },
+  "retrieved_at_utc": "2026-10-21T02:20:28+00:00",
+  "response": {
+    "count": "4",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "BV10536820",
+        "address": "4号线",
+        "distance": "50",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "西南财大地铁站D口",
+        "location": "104.019720,30.670777",
+        "id": "BX10020372"
+      },
+      {
+        "parent": "BV10536820",
+        "address": "4号线",
+        "distance": "60",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "西南财大地铁站A口",
+        "location": "104.019563,30.670200",
+        "id": "BX10020371"
+      },
+      {
+        "parent": "BV10536820",
+        "address": "4号线",
+        "distance": "91",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "西南财大地铁站出入口",
+        "location": "104.020543,30.669733",
+        "id": "BX10036139"
+      },
+      {
+        "parent": "BV10536820",
+        "address": "4号线",
+        "distance": "118",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "西南财大地铁站B口",
+        "location": "104.021069,30.669796",
+        "id": "BX10020369"
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

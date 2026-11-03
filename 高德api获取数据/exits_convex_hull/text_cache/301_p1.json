@@ -1,0 +1,101 @@
+{
+  "station_id": "301",
+  "station_name": "骡马市",
+  "query": {
+    "keywords": "骡马市",
+    "types": "150501",
+    "region": "成都市",
+    "city_limit": "true",
+    "page_size": 25,
+    "page_num": 1
+  },
+  "retrieved_at_utc": "2026-10-21T02:57:33+00:00",
+  "response": {
+    "count": "5",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "BV10063364",
+        "address": "1号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "骡马市地铁站A口",
+        "location": "104.065088,30.667113",
+        "id": "BX09908372"
+      },
+      {
+        "parent": "BV10063364",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "骡马市地铁站E口",
+        "location": "104.067381,30.666938",
+        "id": "BX09908370"
+      },
+      {
+        "parent": "BV10063364",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "骡马市地铁站F口",
+        "location": "104.066736,30.667251",
+        "id": "BX09908369"
+      },
+      {
+        "parent": "BV10063364",
+        "address": "1号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "骡马市地铁站D口",
+        "location": "104.065849,30.665912",
+        "id": "BX09908371"
+      },
+      {
+        "parent": "BV10063364",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510105",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "青羊区",
+        "citycode": "028",
+        "name": "骡马市地铁站G口",
+        "location": "104.066143,30.667186",
+        "id": "BX09908368"
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

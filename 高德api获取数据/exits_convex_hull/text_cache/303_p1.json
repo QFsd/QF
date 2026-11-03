@@ -1,0 +1,85 @@
+{
+  "station_id": "303",
+  "station_name": "高新",
+  "query": {
+    "keywords": "高新",
+    "types": "150501",
+    "region": "成都市",
+    "city_limit": "true",
+    "page_size": 25,
+    "page_num": 1
+  },
+  "retrieved_at_utc": "2026-10-21T02:57:34+00:00",
+  "response": {
+    "count": "4",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "BV10063180",
+        "address": "1号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "高新地铁站A口",
+        "location": "104.063569,30.594594",
+        "id": "BX10019466"
+      },
+      {
+        "parent": "BV10063180",
+        "address": "1号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "高新地铁站B口",
+        "location": "104.063376,30.594116",
+        "id": "BX10019467"
+      },
+      {
+        "parent": "BV10063180",
+        "address": "1号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "高新地铁站C口",
+        "location": "104.064142,30.593831",
+        "id": "BX10019464"
+      },
+      {
+        "parent": "BV10063180",
+        "address": "1号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "高新地铁站D口",
+        "location": "104.064116,30.594607",
+        "id": "BX10019465"
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

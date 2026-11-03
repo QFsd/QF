@@ -1,0 +1,85 @@
+{
+  "station_id": "187",
+  "station_name": "涌泉",
+  "query": {
+    "keywords": "涌泉",
+    "types": "150501",
+    "region": "成都市",
+    "city_limit": "true",
+    "page_size": 25,
+    "page_num": 1
+  },
+  "retrieved_at_utc": "2026-10-21T02:57:22+00:00",
+  "response": {
+    "count": "4",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "BV10612456",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510115",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "温江区",
+        "citycode": "028",
+        "name": "涌泉地铁站D口",
+        "location": "103.872242,30.678655",
+        "id": "BX10023015"
+      },
+      {
+        "parent": "BV10612456",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510115",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "温江区",
+        "citycode": "028",
+        "name": "涌泉地铁站C3口",
+        "location": "103.873244,30.679243",
+        "id": "BX09917911"
+      },
+      {
+        "parent": "BV10612456",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510115",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "温江区",
+        "citycode": "028",
+        "name": "涌泉地铁站C1口",
+        "location": "103.873958,30.678444",
+        "id": "BX10023012"
+      },
+      {
+        "parent": "BV10612456",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510115",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "温江区",
+        "citycode": "028",
+        "name": "涌泉地铁站C2口",
+        "location": "103.874182,30.679158",
+        "id": "BX09917910"
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

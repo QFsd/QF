@@ -1,0 +1,101 @@
+{
+  "station_id": "54",
+  "station_name": "动物园",
+  "query": {
+    "location": "104.103145,30.713653",
+    "radius": 700,
+    "types": "150501",
+    "page_size": 25,
+    "page_num": 1,
+    "sortrule": "distance"
+  },
+  "retrieved_at_utc": "2026-10-21T02:20:11+00:00",
+  "response": {
+    "count": "5",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "BV10536718",
+        "address": "3号线",
+        "distance": "61",
+        "pcode": "510000",
+        "adcode": "510108",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "成华区",
+        "citycode": "028",
+        "name": "动物园地铁站C口",
+        "location": "104.102636,30.713989",
+        "id": "BX10021351"
+      },
+      {
+        "parent": "BV10536718",
+        "address": "3号线",
+        "distance": "74",
+        "pcode": "510000",
+        "adcode": "510108",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "成华区",
+        "citycode": "028",
+        "name": "动物园地铁站出入口",
+        "location": "104.103623,30.713121",
+        "id": "BX09915440"
+      },
+      {
+        "parent": "BV10536718",
+        "address": "3号线",
+        "distance": "81",
+        "pcode": "510000",
+        "adcode": "510108",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "成华区",
+        "citycode": "028",
+        "name": "动物园地铁站D口",
+        "location": "104.102563,30.713119",
+        "id": "BX10021348"
+      },
+      {
+        "parent": "BV10536718",
+        "address": "3号线",
+        "distance": "91",
+        "pcode": "510000",
+        "adcode": "510108",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "成华区",
+        "citycode": "028",
+        "name": "动物园地铁站A口",
+        "location": "104.103343,30.712846",
+        "id": "BX10021349"
+      },
+      {
+        "parent": "BV10536718",
+        "address": "3号线",
+        "distance": "95",
+        "pcode": "510000",
+        "adcode": "510108",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "成华区",
+        "citycode": "028",
+        "name": "动物园地铁站B口",
+        "location": "104.104016,30.714069",
+        "id": "BX10021350"
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

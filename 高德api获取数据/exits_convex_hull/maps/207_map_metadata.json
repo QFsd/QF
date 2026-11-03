@@ -1,0 +1,13 @@
+{
+  "station_id": "207",
+  "station_name": "白果林",
+  "source": "Amap Static Map API /v3/staticmap",
+  "center_gcj02": "104.033276,30.673850",
+  "zoom": 16,
+  "size_px": [
+    1024,
+    1024
+  ],
+  "map_file": "207_amap_static_z16.png",
+  "retrieved_at_utc": "2026-10-21T02:59:47+00:00"
+}

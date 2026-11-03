@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            104.04861503728581,
+            30.66743992501105
+          ],
+          [
+            104.0471598893751,
+            30.668208696174116
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "110",
+        "station_name": "宽窄巷子",
+        "exit_count": 2,
+        "method": "two_exit_oriented_rectangle",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": 163.39,
+        "width_m": 50.0,
+        "width_basis": "user_allowed_50m_assumption_not_surveyed",
+        "status": "estimated_rectangle",
+        "area_m2": 8169.3,
+        "area_km2": 0.008169,
+        "perimeter_m": 426.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            104.03114839964374,
+            30.675559094970673
+          ],
+          [
+            104.03113239707615,
+            30.67677658745835
+          ]
+        ]
+      },
+      "properties": {
+        "station_id": "207",
+        "station_name": "白果林",
+        "exit_count": 2,
+        "method": "two_exit_oriented_rectangle",
+        "source": "Amap POI 2.0 around + text; type 150501",
+        "metric_crs": "EPSG:32648",
+        "length_m": 134.95,
+        "width_m": 50.0,
+        "width_basis": "user_allowed_50m_assumption_not_surveyed",
+        "status": "estimated_rectangle",
+        "area_m2": 6747.25,
+        "area_km2": 0.006747,
+        "perimeter_m": 369.89
+      }
+    }
+  ]
+}

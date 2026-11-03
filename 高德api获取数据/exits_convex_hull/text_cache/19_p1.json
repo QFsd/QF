@@ -1,0 +1,101 @@
+{
+  "station_id": "19",
+  "station_name": "东门大桥",
+  "query": {
+    "keywords": "东门大桥",
+    "types": "150501",
+    "region": "成都市",
+    "city_limit": "true",
+    "page_size": 25,
+    "page_num": 1
+  },
+  "retrieved_at_utc": "2026-10-21T02:57:11+00:00",
+  "response": {
+    "count": "5",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "BV10061131",
+        "address": "2号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510104",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "锦江区",
+        "citycode": "028",
+        "name": "东门大桥地铁站A口",
+        "location": "104.086636,30.648306",
+        "id": "BX10014264"
+      },
+      {
+        "parent": "BV10061131",
+        "address": "2号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510104",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "锦江区",
+        "citycode": "028",
+        "name": "东门大桥地铁站C口",
+        "location": "104.088560,30.647934",
+        "id": "BX10014267"
+      },
+      {
+        "parent": "BV10061131",
+        "address": "2号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510104",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "锦江区",
+        "citycode": "028",
+        "name": "东门大桥地铁站B口",
+        "location": "104.087890,30.647801",
+        "id": "BX10014265"
+      },
+      {
+        "parent": "BV10061131",
+        "address": "2号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510104",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "锦江区",
+        "citycode": "028",
+        "name": "东门大桥地铁站D1口",
+        "location": "104.086736,30.648631",
+        "id": "BX10014268"
+      },
+      {
+        "parent": "BV10061131",
+        "address": "2号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510104",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "锦江区",
+        "citycode": "028",
+        "name": "东门大桥地铁站D2口",
+        "location": "104.086532,30.648728",
+        "id": "BX10014266"
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

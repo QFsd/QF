@@ -1,0 +1,85 @@
+{
+  "station_id": "50",
+  "station_name": "凤凰大街",
+  "query": {
+    "keywords": "凤凰大街",
+    "types": "150501",
+    "region": "成都市",
+    "city_limit": "true",
+    "page_size": 25,
+    "page_num": 1
+  },
+  "retrieved_at_utc": "2026-10-21T02:57:13+00:00",
+  "response": {
+    "count": "4",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "BV10612457",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510115",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "温江区",
+        "citycode": "028",
+        "name": "凤凰大街地铁站C1口",
+        "location": "103.890596,30.678171",
+        "id": "BX10023017"
+      },
+      {
+        "parent": "BV10612457",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510115",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "温江区",
+        "citycode": "028",
+        "name": "凤凰大街地铁站D口",
+        "location": "103.888617,30.677200",
+        "id": "BX10023016"
+      },
+      {
+        "parent": "BV10612457",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510115",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "温江区",
+        "citycode": "028",
+        "name": "凤凰大街地铁站C2口",
+        "location": "103.889533,30.677929",
+        "id": "BX10023019"
+      },
+      {
+        "parent": "BV10612457",
+        "address": "4号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510115",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "温江区",
+        "citycode": "028",
+        "name": "凤凰大街地铁站C3口",
+        "location": "103.889491,30.677108",
+        "id": "BX10023018"
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

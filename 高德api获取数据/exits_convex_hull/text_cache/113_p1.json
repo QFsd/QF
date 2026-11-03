@@ -1,0 +1,85 @@
+{
+  "station_id": "113",
+  "station_name": "川大望江校区",
+  "query": {
+    "keywords": "川大望江校区",
+    "types": "150501",
+    "region": "成都市",
+    "city_limit": "true",
+    "page_size": 25,
+    "page_num": 1
+  },
+  "retrieved_at_utc": "2026-10-21T02:57:18+00:00",
+  "response": {
+    "count": "4",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "BV10856185",
+        "address": "8号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "川大望江校区地铁站A口",
+        "location": "104.076891,30.625985",
+        "id": "BX09900930"
+      },
+      {
+        "parent": "BV10856185",
+        "address": "8号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "川大望江校区地铁站B口",
+        "location": "104.074847,30.625264",
+        "id": "BX10030381"
+      },
+      {
+        "parent": "BV10856185",
+        "address": "8号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "川大望江校区地铁站D口",
+        "location": "104.075847,30.625025",
+        "id": "BX10030380"
+      },
+      {
+        "parent": "BV10856185",
+        "address": "8号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "川大望江校区地铁站C口",
+        "location": "104.073949,30.625030",
+        "id": "BX10030379"
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}

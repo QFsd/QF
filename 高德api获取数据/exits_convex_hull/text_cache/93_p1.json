@@ -1,0 +1,85 @@
+{
+  "station_id": "93",
+  "station_name": "天府三街",
+  "query": {
+    "keywords": "天府三街",
+    "types": "150501",
+    "region": "成都市",
+    "city_limit": "true",
+    "page_size": 25,
+    "page_num": 1
+  },
+  "retrieved_at_utc": "2026-10-21T02:57:15+00:00",
+  "response": {
+    "count": "4",
+    "infocode": "10000",
+    "pois": [
+      {
+        "parent": "BV10523583",
+        "address": "1号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "天府三街地铁站A口",
+        "location": "104.068066,30.546698",
+        "id": "BX10019505"
+      },
+      {
+        "parent": "BV10523583",
+        "address": "1号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "天府三街地铁站B口",
+        "location": "104.068555,30.545570",
+        "id": "BX10019504"
+      },
+      {
+        "parent": "BV10523583",
+        "address": "1号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "天府三街地铁站C2口",
+        "location": "104.069865,30.546548",
+        "id": "BX10019503"
+      },
+      {
+        "parent": "BV10523583",
+        "address": "1号线",
+        "distance": "",
+        "pcode": "510000",
+        "adcode": "510107",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "type": "交通设施服务;地铁站;出入口",
+        "typecode": "150501",
+        "adname": "武侯区",
+        "citycode": "028",
+        "name": "天府三街地铁站C1口",
+        "location": "104.069673,30.545747",
+        "id": "BX10019502"
+      }
+    ],
+    "status": "1",
+    "info": "OK"
+  }
+}
